@@ -1,7 +1,7 @@
 
 # challenge7-Quick-Readme
 
-
+---
 
 ## Description
 
@@ -10,7 +10,7 @@ The Quick-Readme is a command-line tool designed to simplify the process of crea
 This tool is ideal for developers who want to quickly produce comprehensive documentation for their repositories without manually crafting each section of the README. The generated README includes key sections such as Project Title, Description, Installation Instructions, Usage Information, Contribution Guidelines, Test Instructions, License Information, and Contact Information.
 
 
-
+---
 
 ## Features
 
