@@ -1,6 +1,6 @@
-# test
+# QIUCK README
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-orange)](https://opensource.org/licenses/GPL-3.0)
 
 ## Table of Contents
 
@@ -14,27 +14,27 @@
 
 ## Description
 
-test
+Help to generate README file quick
 
 ## Installation
 
-test
+1. Clone the repo, 2. node index.js
 
 ## Usage Information
 
-test
+add all the information for your README in prompt
 
 ## Contribution Guidelines
 
-test
+CONTRIBUTING.MD
 
 ## Test Instructions
 
-test
+Run npm test
 
 ## License
 
-This application is covered under the Apache 2.0 license.
+This application is covered under the GPL 3.0 license.
 
 ## Questions
 
