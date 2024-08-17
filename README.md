@@ -21,7 +21,7 @@ To use the Quick-Readme, follow these steps:
 
 1. Clone the repository:
 
-git clone git@github.com:Leo-webdev7/challenge7-Quick-Readme.git
+https://github.com/Leo-webdev7/challenge7-Quick-Readme/
 
 2. Navigate to the project directory:
 
