@@ -33,4 +33,7 @@ npm install
 node index.js
 
 5. Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
+
+Screenshots
+
 ![quick readme example](https://github.com/user-attachments/assets/574470b4-4b8f-4ee0-85da-a40ca3040173)
