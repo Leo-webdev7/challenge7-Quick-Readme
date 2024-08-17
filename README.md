@@ -41,7 +41,9 @@ https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=shari
 
 Screenshots
 
+![2024-08-16_203556](https://github.com/user-attachments/assets/da7ff843-cac5-4364-b5ee-a09a90411fd7)
+
 ![quick readme example](https://github.com/user-attachments/assets/574470b4-4b8f-4ee0-85da-a40ca3040173)
 
 
-![2024-08-16_203556](https://github.com/user-attachments/assets/da7ff843-cac5-4364-b5ee-a09a90411fd7)
+
