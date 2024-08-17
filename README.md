@@ -26,21 +26,21 @@ Output File: Creates a README.md file with the provided information, making docu
 
 ## To use the Quick-Readme, follow these steps:
 
-### 1. Clone the repository:
+### 1. Clone the repository: 
 
 https://github.com/Leo-webdev7/challenge7-Quick-Readme/
 
-2. Navigate to the project directory:
+### 2. Navigate to the project directory:
 
-3. Install the necessary dependencies:
+### 3. Install the necessary dependencies:
 
 npm install
 
-4. Run the Quick-Readme from the terminal by executing the following command:
+### 4. Run the Quick-Readme from the terminal by executing the following command:
 
 node index.js
 
-5. Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
+### 5. Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
 
 
 
