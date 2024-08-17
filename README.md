@@ -38,6 +38,8 @@ Live Recording of Application Functionality
 
 https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view
 
+https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=sharing
+
 Screenshots
 
 ![quick readme example](https://github.com/user-attachments/assets/574470b4-4b8f-4ee0-85da-a40ca3040173)
