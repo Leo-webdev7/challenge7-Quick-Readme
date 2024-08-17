@@ -1,1 +1,1 @@
-# challenge7-Quick-Readme
+# challenge7-readme-generator
