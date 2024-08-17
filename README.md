@@ -13,3 +13,20 @@ Customizable Sections: Includes common README sections like Description, Install
 License Badge: Automatically adds a license badge and corresponding information based on user selection.
 Email and GitHub Links: Generates dynamic links for contacting via email and visiting the GitHub profile.
 Output File: Creates a README.md file with the provided information, making documentation consistent and professional.
+
+
+To use the README Generator, follow these steps:
+
+1.Clone the repository:
+
+git clone https://github.com/your-username/readme-generator.git
+
+2.Navigate to the project directory:
+
+3.Install the necessary dependencies:
+
+4.Run the README Generator from the terminal by executing the following command:
+
+node index.js
+
+5.Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
