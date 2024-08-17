@@ -36,8 +36,6 @@ node index.js
 
 Live Recording of Application Functionality
 
-https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view
-
 https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=sharing
 
 Screenshots
