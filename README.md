@@ -26,7 +26,7 @@ Output File: Creates a README.md file with the provided information, making docu
 
 ## To use the Quick-Readme, follow these steps:
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 https://github.com/Leo-webdev7/challenge7-Quick-Readme/
 
