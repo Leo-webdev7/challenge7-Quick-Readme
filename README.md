@@ -2,7 +2,7 @@
 # challenge7-Quick-Readme
 
 
-# Description
+## Description
 
 The Quick-Readme is a command-line tool designed to simplify the process of creating a professional README file for your projects. Built using Node.js, this application prompts you through a series of questions to gather essential information about your project and automatically generates a well-structured README.md file based on your inputs.
 
@@ -17,7 +17,7 @@ Email and GitHub Links: Generates dynamic links for contacting via email and vis
 Output File: Creates a README.md file with the provided information, making documentation consistent and professional.
 
 
-To use the Quick-Readme, follow these steps:
+## To use the Quick-Readme, follow these steps:
 
 1. Clone the repository:
 
@@ -35,11 +35,11 @@ node index.js
 
 5. Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
 
-Live Recording of Application Functionality
+## Live Recording of Application Functionality
 
 https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=sharing
 
-Screenshots
+## Screenshots
 
 ![2024-08-16_203556](https://github.com/user-attachments/assets/da7ff843-cac5-4364-b5ee-a09a90411fd7)
 
