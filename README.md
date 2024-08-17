@@ -64,7 +64,7 @@ https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=shari
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions, feel free to reach out via email: lshapirov2@gmail.com or GitHub: leo-vebdev7.
+For any questions, feel free to reach out via email: lshapirov2@gmail.com or GitHub: https://github.com/Leo-webdev7.
 
 ---
 
