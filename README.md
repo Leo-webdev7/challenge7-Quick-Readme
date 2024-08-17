@@ -21,7 +21,7 @@ Email and GitHub Links: Generates dynamic links for contacting via email and vis
 Output File: Creates a README.md file with the provided information, making documentation consistent and professional.
 
 
-
+---
 
 
 ## To use the Quick-Readme, follow these steps:
@@ -42,7 +42,7 @@ node index.js
 
 ### 5. Follow the prompts to input details about your project. The tool will generate a README.md file based on your responses.
 
-
+---
 
 
 ## Live Recording of Application Functionality
@@ -50,7 +50,7 @@ node index.js
 https://drive.google.com/file/d/1krEaU_0-Gbfe0PCSB-Pbs5i-DeDjlfQW/view?usp=sharing
 
 
-
+---
 
 ## Screenshots
 
