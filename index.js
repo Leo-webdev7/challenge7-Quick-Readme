@@ -135,7 +135,11 @@ function writeToFile(fileName, data) {
 
 
 function init() {
-    
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            writeToFile("generated-README.md", data);
+        });
 }
 
 // Function call to initialize app
