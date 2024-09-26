@@ -1,5 +1,5 @@
 
-# challenge7-Quick-Readme
+# Quick-Readme
 
 ---
 
